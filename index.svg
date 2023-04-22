@@ -6,14 +6,14 @@
     </desc>
     <style>
         @font-face {
-        font-family: &apos;DOSMyungjo&apos;;
-        src: url(&apos;https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_eight@1.0/DOSMyungjo.woff&apos;) format(&apos;woff&apos;);
+        font-family: 'DOSMyungjo';
+        src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_eight@1.0/DOSMyungjo.woff') format('woff');
         font-weight: normal;
         font-style: normal;
         }
 
         text {
-        font-family: &apos;DOSMyungjo&apos;, Roboto;
+        font-family: 'DOSMyungjo', monospace;
         }
 
         #header, #body, #footer, a {
